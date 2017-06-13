@@ -5,47 +5,46 @@
       "name" : "Vous ?",
       "url" : "",
       "width" : 170
-    }, {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "Vous ?",
-      "url" : "",
-      "width" : 170
     } ],
     "title" : "Platinium"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "Vous ?",
-      "url" : "",
+      "logoUrl" : "https://devfesttoulouse.fr/images/partners/insidegroup.jpg",
+      "name" : "Inside Group",
+      "url" : "https://insidegroup.fr/fr/",
       "width" : 170
     }, {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "Vous ?",
-      "url" : "",
-      "width" : 170
+      "logoUrl" : "https://www.cirruseo.com/statics/images/logo.png",
+      "name" : "Cirruséo",
+      "url" : "https://www.cirruseo.com/"
     }, {
       "logoUrl" : "../images/partners/sponsor-icon.png",
       "name" : "",
       "url" : ""
+    }, {
+      "logoUrl" : "../images/partners/sponsor-icon.png",
+      "name" : "Vous ?",
+      "url" : "",
+      "width" : 170
     } ],
     "title" : "Or"
   }, {
     "logos" : [ {
-      "logoUrl" : "https://assets.toptal.io/assets/front/static/public/blocks/logo/big_1ef32d.png",
-      "name" : "Topal",
+      "logoUrl" : "../images/partners/toptal.png",
+      "name" : "Toptal",
       "url" : "https://www.toptal.com/#select-just-supreme-hackers"
     }, {
       "logoUrl" : "../images/partners/livingobjects.png",
       "name" : "Living Objects",
       "url" : "http://livingobjects.com/"
     }, {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "",
-      "url" : ""
+      "logoUrl" : "https://www.squad.fr/static/images/theme/logo_blue.png",
+      "name" : "Squad",
+      "url" : "https://www.squad.fr"
     }, {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "",
-      "url" : ""
+      "logoUrl" : "https://devfesttoulouse.fr/images/partners/docdoku.png",
+      "name" : "DocDoku",
+      "url" : "https://www.docdoku.com/"
     }, {
       "logoUrl" : "../images/partners/sponsor-icon.png",
       "name" : "",
@@ -62,9 +61,19 @@
     "title" : "Argent"
   }, {
     "logos" : [ {
-      "logoUrl" : "https://www.occitech.fr/wp-content/uploads/2014/01/logo.png",
+      "logoUrl" : "../images/partners/occitech.png",
       "name" : "Occitech",
       "url" : "https://www.occitech.fr/",
+      "width" : 170
+    }, {
+      "logoUrl" : "../images/partners/adveez.png",
+      "name" : "Adveez",
+      "url" : "http://www.adveez.fr/",
+      "width" : 170
+    }, {
+      "logoUrl" : "../images/partners/sponsor-icon.png",
+      "name" : "Vous ?",
+      "url" : "",
       "width" : 170
     }, {
       "logoUrl" : "../images/partners/sponsor-icon.png",
@@ -75,12 +84,12 @@
     "title" : "Soutien"
   }, {
     "logos" : [ {
-      "logoUrl" : "https://2016.devfesttoulouse.fr/images/partners/logo_programmez.svg",
+      "logoUrl" : "../images/partners/logo_programmez.svg",
       "name" : "Programmez! magazine",
       "url" : "http://www.programmez.com/",
       "width" : 170
     }, {
-      "logoUrl" : "https://pbs.twimg.com/profile_images/641318644597846017/AELicGoB.png",
+      "logoUrl" : "../images/partners/cpu.png",
       "name" : "CPU",
       "url" : "http://cpu.pm",
       "width" : 170
@@ -1438,7 +1447,7 @@
         "link" : "https://twitter.com/julienrenaux",
         "name" : "Twitter"
       } ],
-      "title" : "Angular Toulouse"
+      "title" : "GDG Toulouse & Angular Toulouse"
     }, {
       "name" : "Maxime Pawlak",
       "photoUrl" : "/images/people/maxime_pawlak.jpg",
