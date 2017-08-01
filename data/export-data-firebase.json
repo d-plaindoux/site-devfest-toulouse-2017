@@ -639,7 +639,7 @@
       ],
       "tags": [
         "WTF"
-      ],
+      ]
    },
     "2158":{
       "id": 2158,
@@ -1075,7 +1075,7 @@
           "icon":"linkedin",
           "link":"https://www.linkedin.com/in/florentpajot/?ppe=1",
           "name":"LinkedIn"
-        },
+        }
       ],
       "tags":[
         "Machine Learning"
