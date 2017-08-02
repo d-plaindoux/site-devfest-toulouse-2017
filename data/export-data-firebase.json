@@ -813,9 +813,9 @@
         }
       ],
       "tags":[
-        "Functional Programming",
         "Vert.x",
-        "GoloLang"
+        "GoloLang",
+        "Emoji Artist 😎"
       ],
       "title":"Golo tech-evangelist-dev-relation-advocate"
     },
@@ -836,7 +836,8 @@
         }
       ],
       "tags":[
-        "Functional Programming"
+        "Functional Programming",
+        "Swift"
       ],
       "title":"ComputerScientist[Freelance]"
     },
@@ -1659,7 +1660,13 @@
           "link": "https://twitter.com/minegraphite",
           "name": "Twitter"
         }
+      ],
+      "tags":[
+        "Android", "iOS", "Ionic",
+        "Java","Scala","NodeJS",
+        "TypeScript", "AngularJS", "Angular"
       ]
+
     },
     {
       "id": 840,
@@ -1680,6 +1687,10 @@
           "link": "https://github.com/jechercheundev/",
           "name": "GitHub"
         }
+      ],
+      "tags":[
+        "Android",
+        "iOS"
       ]
     },
     {
@@ -1696,6 +1707,11 @@
           "link": "https://twitter.com/ftregan",
           "name": "Twitter"
         }
+      ],
+      "tags":[
+        "Java",
+        "Bois",
+        "WTF 🤣"
       ]
     },
     {
@@ -1717,6 +1733,10 @@
           "link": "https://github.com/mbats",
           "name": "GitHub"
         }
+      ],
+      "tags":[
+        "Java",
+        "Eclipse"
       ]
     },
     {
@@ -1733,6 +1753,10 @@
           "link": "https://twitter.com/pauline_io",
           "name": "Twitter"
         }
+      ],
+      "tags":[
+        "Java",
+        "Duchess"
       ]
     },
     {
@@ -1749,6 +1773,10 @@
           "link": "https://twitter.com/arawak971",
           "name": "Twitter"
         }
+      ],
+      "tags":[
+        "Web",
+        "Mobile"
       ]
     },
     {
@@ -1770,6 +1798,11 @@
           "link": "https://github.com/GillesDebunne",
           "name": "GitHub"
         }
+      ],
+      "tags":[
+        "Mobile",
+        "Angular",
+        "React"
       ]
     }
 
