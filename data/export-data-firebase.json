@@ -1455,7 +1455,7 @@
       "photoUrl":"/images/speakers/alex-danvy.jpg",
       "company":"Microsoft",
       "bio":"Partage sa passion pour le développement. Amateur de robots et de pommes. Promoteur de l'informatique pour tous. Spécialiste de l'Internet of Things. Evangéliste chez Microsoft.",
-      "shortBio":"Human|Robot? DaftPunk! I'm a French working @Microsoft #IoT addict, software lover, technology enthusiast #cloud #windows #android #ios #vr #ar #ia #bots #food",
+      "shortBio":"Human|Robot? DaftPunk! I'm a French working @Microsoft #IoT addict, software lover, technology enthusiast #cloud #windows #android #ios",
       "country":"France",
       "featured":false,
       "socials":[
@@ -1650,7 +1650,7 @@
       "name": "Alexandre Delattre",
       "company": "Viseo",
       "bio": "# Ingénieur logiciel Fullstack\n\n31 ans et fort de 7 ans d'expérience dans le développement logiciel, mon parcours, auprès de startups et de grands groupes m'a permis de m'approprier une large gamme de technos fullstack:\n\n- Mobile : Android (Kotlin), iOS (Swift), Ionic \n- Backend : Java, Scala, NodeJS\n- Web : Typescript / Angular 1 & 2\n\nJe suis passioné par la mobilité, la qualité et l'innovation logicielle, l'UX et l'entrepreunariat digital.",
-      "shortBio": "# Ingénieur logiciel Fullstack\n\n31 ans et fort de 7 ans d'expérience dans le développement logiciel, mon parcours, auprès de startups et de grands groupes m'a permis de m'approprier une large gamme de technos fullstack:\n\n- Mobile : Android (Kotlin), iOS (Swift), Ionic \n- Backend : Java, Scala, NodeJS\n- Web : Typescript / Angular 1 & 2\n\nJe suis passioné par la mobilité, la qualité et l'innovation logicielle, l'UX et l'entrepreunariat digital.",
+      "shortBio": "Ingénieur logiciel Fullstack à 31 ans et fort de 7 ans d'expérience dans le développement logiciel",
       "photoUrl": "/images/speakers/alexandre-delattre.jpeg",
       "featured": false,
       "socials": [
@@ -1687,7 +1687,7 @@
       "name": "Fabien Tregan",
       "company": "freelance",
       "bio": "After spending 10+ years of my life coding, I started to feel that the problems in software development were not in the code and tryed finding solution elsewhere. Since I started doing that, I started to love coding again :)",
-      "shortBio": "After spending 10+ years of my life coding, I started to feel that the problems in software development were not in the code and tryed finding solution elsewhere. Since I started doing that, I started to love coding again :)",
+      "shortBio": "Not trying to reach perfection. Just more or less walking toward it, trying to enjoy the landscape meanwhile.",
       "photoUrl": "/images/speakers/fabien-tregan.jpeg",
       "featured": false,
       "socials": [
@@ -1703,7 +1703,7 @@
       "name": "Mélanie Bats",
       "company": "Obeo",
       "bio": "I am Mélanie Bats and I work as a software developer at Obeo. In my daily work, I am mainly focused on the development of modeling tools based on Eclipse with Sirius like UML Designer. I am also committer for 2 Eclipse projects: EEF and Sirius. In my free time I am interested in Arduino stuff and contribute some Eclipse plugins for cross compilation like the Buildroot Eclipse plugin. I am also a free software activist who has organized and participated in free software events in the Toulouse area.",
-      "shortBio": "I am Mélanie Bats and I work as a software developer at Obeo. In my daily work, I am mainly focused on the development of modeling tools based on Eclipse with Sirius like UML Designer. I am also committer for 2 Eclipse projects: EEF and Sirius. In my free time I am interested in Arduino stuff and contribute some Eclipse plugins for cross compilation like the Buildroot Eclipse plugin. I am also a free software activist who has organized and participated in free software events in the Toulouse area.",
+      "shortBio": "I am Mélanie Bats and I work as a software developer at Obeo. In my daily work, I am mainly focused on the development of modeling tools based on Eclipse...",
       "photoUrl": "/images/speakers/melanie-bats.jpeg",
       "featured": false,
       "socials": [
@@ -1724,7 +1724,7 @@
       "name": "Pauline iogna",
       "company": "casden",
       "bio": "Après 7 dans différentes entreprises, Pauline a rejoint la Casden en tant que développeuse et techlead. Elle aime particulièrement travailler sur les problématiques server side.\nAncienne étudiante de l'université Paris-Est Marne la Vallée, elle y enseigne à présent le java.\nElles est membre actif de Duchess France, association ayant pour but de donner de la visibilité aux femmes qui ont des métiers techniques, elle participe régulièrement à l'organisation d’événements techniques.",
-      "shortBio": "Après 7 dans différentes entreprises, Pauline a rejoint la Casden en tant que développeuse et techlead. Elle aime particulièrement travailler sur les problématiques server side.\nAncienne étudiante de l'université Paris-Est Marne la Vallée, elle y enseigne à présent le java.\nElles est membre actif de Duchess France, association ayant pour but de donner de la visibilité aux femmes qui ont des métiers techniques, elle participe régulièrement à l'organisation d’événements techniques.",
+      "shortBio": "Après 7 dans différentes entreprises, Pauline a rejoint la Casden en tant que développeuse et techlead",
       "photoUrl": "/images/speakers/pauline-iogna.jpg",
       "featured": false,
       "socials": [
@@ -1755,8 +1755,8 @@
       "id": 207,
       "name": "gilles Debunne",
       "company": "Freelance",
-      "bio": "Développeur Freelance sur Toulouse depuis 4 ans, je me spécialise dans l'UX, front ou mobile.\nÉclectique, chercheur au CNRS, en SSII ou dans l'équipe Android chez Google, j'ai toujours travaillé près et pour l'utilisateur.",
-      "shortBio": "Développeur Freelance sur Toulouse depuis 4 ans, je me spécialise dans l'UX, front ou mobile.\nÉclectique, chercheur au CNRS, en SSII ou dans l'équipe Android chez Google, j'ai toujours travaillé près et pour l'utilisateur.",
+      "bio": "Développeur Freelance sur Toulouse depuis 4 ans, je me spécialise dans l'UX, front ou mobile. Éclectique, chercheur au CNRS, en SSII ou dans l'équipe Android chez Google, j'ai toujours travaillé près et pour l'utilisateur.",
+      "shortBio": "Développeur Freelance sur Toulouse depuis 4 ans, je me spécialise dans l'UX, front ou mobile.",
       "photoUrl": "/images/speakers/gilles-debunne.jpeg",
       "featured": false,
       "socials": [
